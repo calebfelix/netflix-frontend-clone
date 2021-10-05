@@ -2,4 +2,4 @@
 
 
 
-[Visit Site](https://stige-week-1-miniproj.vercel.app/)
+[Visit Site](https://stige-week4-netflix-frontend-clone.vercel.app/)
